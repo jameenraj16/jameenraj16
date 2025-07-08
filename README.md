@@ -1,17 +1,17 @@
 <!-- Typing Animation Header -->
+<!-- Custom Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=&lines=Hi+%F0%9F%91%8B%2C+I'm+Jameen+Raj;Frontend+Developer+%7C+React+Enthusiast;Dashboard+Architect+%7C+UI%2FUX+Specialist" alt="Typing SVG" />
+  <a href="https://github.com/jameenraj16">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&width=500&height=50&lines=console.log(%22Hello+World%22);Jameen+Raj;Frontend+Architect;React+%7C+TypeScript+Dev;UI%2FUX+Enthusiast;Dashboard+Specialist" alt="Typing animation" />
+  </a>
 </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jameenraj16&label=Profile+Views&color=0e75b6&style=flat" alt="jameenraj16" /> 
   <a href="https://github.com/jameenraj16?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jameenraj16?color=58A6FF&logo=github&style=for-the-badge">
-  </a>
-  <a href="https://github.com/jameenraj16">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/jameenraj16?color=58A6FF&logo=github&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jameenraj16?color=38BDF8&logo=github&style=flat">
   </a>
 </p>
-
 ---
 
 ### 🚀 About Me

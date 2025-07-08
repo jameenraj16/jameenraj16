@@ -1,71 +1,57 @@
-<h1 align="center">Hi 👋, I'm Jameen Raj</h1>
-<h3 align="center">Frontend Developer | Dashboard Architect | UI/UX Enthusiast</h3>
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jameen+Raj;Frontend+Developer+%7C+React+Enthusiast;Dashboard+Architect+%7C+UI%2FUX+Specialist" alt="Typing SVG" />
+</h1>
 
 ---
 
 ### 🚀 About Me
 
-🎯 Passionate **frontend engineer** building enterprise-grade dashboards and applications  
-📊 Creator of modular **HR Analytics Dashboard** with full UI, API, and analytics integration  
-🌱 Always exploring modern tools like **React 19**, **Framer Motion**, **Socket.io**, and **MongoDB Atlas**
+🎯 Passionate **frontend engineer** crafting modular, scalable, and responsive UIs  
+📊 Builder of a full-featured **HR Analytics Dashboard** for real-time data insights  
+🌱 Always learning modern stacks like **React 19**, **Redux Toolkit**, **Framer Motion**, and **Socket.io**
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-#### 🧠 Languages & Core
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+#### ⚛️ Frontend, Animation, Styling
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind,gsap,framer" />
 </p>
 
-#### ⚛️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer_Motion-EF4FDC?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+#### 🔥 Backend, DB & Realtime
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,socketio" />
 </p>
 
-#### 🔥 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-2F4F4F?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+#### 🧪 Testing, Deployment, Tooling
 
-#### ⚙️ Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,webpack,jest,storybook,netlify,aws" />
 </p>
 
 ---
 
-### 🧩 Featured Project: HR Analytics Dashboard
+### 📌 HR Analytics Dashboard
 
-> A scalable, secure, and visually engaging HR dashboard built for real-time insights and analytics.
+> A secure, scalable, and customizable platform to visualize HR data interactively.
 
-📌 **Modules Include:**
-- 🕒 Attendance, Absenteeism, Late-in Trends  
-- 🧾 Leave, Balance, and Approval Analytics  
-- 🧍‍♀️ Department-wise Stats, Attrition & Headcount  
-- 📢 Holidays, Birthdays, and Employee Milestones  
-- 📊 Mixed Visualizations with Grid + Chart views
-
-🔐 **Auth Flows:**
-- Login / OTP / Forgot Password / Google Auth  
-- Protected Routes + Axios Interceptors  
-- Token-based API requests with secure storage
-
-🛠️ **Tools Used:** React 19, Redux Toolkit, Chart.js, AG Grid, Framer Motion, Axios, Tailwind CSS, and more.
+🧠 **Built With:** React 19, Redux Toolkit, AG Grid, Tailwind CSS, Chart.js, Framer Motion, Axios, MongoDB  
+📊 **Modules:** Attendance, Leave, Approvals, Attrition, Events, Department-wise analysis  
+🔐 **Authentication:** Login / OTP / Google Login / Reset Password  
+🧩 **Features:** Dynamic Page Creator, Drag & Drop Layouts, Customizable Routes, Chart Grids, Exportable Tables  
 
 ---
 
@@ -93,7 +79,7 @@
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 🌐 [Portfolio](https://your-portfolio.com)

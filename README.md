@@ -20,7 +20,7 @@
 
 ### � About Me
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="right">
 
 I'm a **frontend architect** with 5+ years of experience crafting pixel-perfect UIs. My passion lies in:
@@ -38,17 +38,17 @@ When not coding, I'm probably contributing to open-source or mentoring junior de
 ### 🛠️ Tech Stack
 
 #### Frontend Ecosystem
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,graphql,apollo,tailwind,scss,styledcomponents,materialui,framer,motion,threejs,webgl" />
 </p>
 
 #### Backend & DevOps
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase,docker,kubernetes,aws,gcp,nginx" />
 </p>
 
 #### Testing & Tooling
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=jest,cypress,storybook,webpack,vite,rollup,git,githubactions,figma,xd" />
 </p>
 
@@ -57,7 +57,7 @@ When not coding, I'm probably contributing to open-source or mentoring junior de
 
 **Next-gen people analytics platform with AI-powered insights**
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/jameenraj16/hr-dashboard/blob/main/demo.gif?raw=true" alt="Dashboard Demo" width="90%">
 </div>
 
